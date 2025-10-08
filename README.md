@@ -8,6 +8,12 @@ The ATM Simulator is a Java-based console application designed to replicate the 
 This project allows users to log in using their PIN, check account balance, deposit money, and withdraw funds — all through a simple, interactive console interface.
 It is built with object-oriented principles and integrates Excel-based data storage, providing a realistic banking simulation without using databases.
 
+### 🎥 Project Video Link
+
+```
+https://drive.google.com/file/d/1E-iwKv8ZqwqsNlxdKmlQ6AVAjc1EkDJ5/view?usp=sharing
+```
+
 ### 🚀 Key Features
 
 1. **User Authentication**
