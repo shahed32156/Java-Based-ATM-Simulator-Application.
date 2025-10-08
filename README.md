@@ -10,35 +10,35 @@ It is built with object-oriented principles and integrates Excel-based data stor
 
 ### 🚀 Key Features
 
-1. User Authentication
+**1. User Authentication**
 
     - Each user must enter a valid PIN number to access their account.
 
     - PIN validation is performed securely through the UserAccount class.
 
-2. Balance Inquiry
+**2. Balance Inquiry**
 
     - Displays the user’s current balance retrieved from the stored account data.
 
-3. Deposit Functionality
+**3. Deposit Functionality**
 
     - Users can deposit any positive amount, which immediately updates the balance in memory.
 
     - Validations ensure that negative or invalid deposits are rejected.
 
-4. Withdrawal Functionality
+**4. Withdrawal Functionality**
 
     - Users can withdraw amounts (minimum 500) within their available balance.
 
     - The system checks for insufficient balance and displays helpful error messages.
 
-5. Excel Integration
+**5. Excel Integration**
 
     - Instead of manual data entry, user account information (Account Number, PIN, Balance) is read dynamically from an Excel file using Apache POI.
 
     - This simulates a lightweight data management system.
 
-6. Interactive Console Menu
+**6. Interactive Console Menu**
 
     - A user-friendly text-based interface allows navigation through menu options:
     Check Balance, Deposit Money, Withdraw Money, and Exit.
